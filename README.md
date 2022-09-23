@@ -21,6 +21,7 @@ Using MySQL as database : [go_restapi_login.sql](https://github.com/ainmtsn1999/
 ### A Big Thanks For 
 - [Google](https://www.google.com/)
 - [StackOverFLow](https://stackoverflow.com/)
-- [TentangKode Youtube](https://www.youtube.com/c/TentangKode)
-- [TutorialEdge Youtube](https://www.youtube.com/c/Tutorialedge)
-- [Ashad Washo Youtube](https://www.youtube.com/channel/UCXnunTRjskyDasOyGyDhSXA)
+- [TentangKode Youtube Channel](https://www.youtube.com/c/TentangKode)
+- [TutorialEdge Youtube Channel](https://www.youtube.com/c/Tutorialedge)
+- [Ashad Washo Youtube Channel](https://www.youtube.com/channel/UCXnunTRjskyDasOyGyDhSXA)
+- [Programmer Zaman Now Youtube Channel](https://www.youtube.com/c/ProgrammerZamanNow)
