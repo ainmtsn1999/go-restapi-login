@@ -10,11 +10,11 @@ Using MySQL as database
 
 ### Documentation
 - Login Page
-
+> ![image](https://user-images.githubusercontent.com/37493831/191885133-7883fa38-9870-4c43-97a7-fcb164510240.png)
 - Register Page
-
+> ![image](https://user-images.githubusercontent.com/37493831/191885241-b46ef041-8d38-47fa-8892-6ae387f52d95.png)
 - Get All User API
-![get_all](https://ibb.co/Hx9yj8J)
+> ![image](https://user-images.githubusercontent.com/37493831/191885027-fe751333-f0cf-45eb-9b0d-86436ce03cc4.png)
 
 
 ### A Big Thanks For 
