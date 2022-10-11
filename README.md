@@ -3,7 +3,7 @@
 > It's an assignment for backend dev internship in Jatis Mobile
 
 ### Source
-A simple API login web project that built in [go language program](https://go.dev/) using some additional framework like [gin](github.com/gin-gonic/gin), [gorm](gorm.io/gorm), [gorm-mysql](gorm.io/driver/mysql) 
+A simple API login web project that built in [go language program](https://go.dev/) using some additional framework like [gin](https://github.com/gin-gonic/gin), [gorm](https://gorm.io/gorm), [gorm-mysql](https://gorm.io/driver/mysql) 
 
 ### Database
 Using MySQL as database : [go_restapi_login.sql](https://github.com/ainmtsn1999/go-restapi-login/blob/main/go_restapi_login.sql)
